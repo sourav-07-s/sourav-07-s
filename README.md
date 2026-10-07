@@ -16,7 +16,9 @@ I'm a 7th-semester Computer Science & Engineering student passionate about build
 
 **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS, Redux Toolkit, React Router
 
-**Backend:** Node.js, REST APIs
+**Backend:** Node.js, REST APIs ,Express
+
+**Database:** MongoDb 
 
 **Programming:** JavaScript, Python, C++, TypeScript (Basics)
 
