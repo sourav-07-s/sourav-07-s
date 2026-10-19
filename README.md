@@ -10,7 +10,7 @@ I build responsive web apps with React, Node.js, Express and MongoDB, and I'm lo
 - **[Customer Segmentation](https://github.com/sourav-07-s/Customer-Segmentation-model)**: RFM analysis and K-Means clustering in Python
 
 ## Tech
-JavaScript | React.js | Redux Toolkit | Node.js | Express | MongoDB | Tailwind CSS | Python | Git
+JavaScript | React.js | Redux Toolkit | Node.js | Express | MongoDB | Tailwind CSS | Python | Git | Next.js | TypeScript
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/sourav-sahoo-s/) | souravsahoo407@gmail.com
