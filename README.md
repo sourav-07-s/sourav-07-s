@@ -32,10 +32,10 @@ const sourav = {
   role: "Full Stack Developer",
   location: "Odisha, India 🇮🇳",
   stack: ["React", "Node.js", "Express", "MongoDB"],
-  alsoExploring: ["Machine Learning", "TypeScript"],
-  currentlyBuilding: "MusicFy 🎧",
-  lookingFor: "Internships • Junior roles • Freelance",
-  funFact: "I debug with coffee ☕ and stubbornness"
+  alsoExploring: ["Machine Learning", "TypeScript" , "AI"],
+  currentlyBuilding: "MusicFy 🎧 ,ShopAssist 🛍️, Job Tracking Application (progressssss....)",
+  lookingFor: "Internships • Junior roles • Fresher",
+  funFact: "I debug with coffee ☕ and chips"
 };
 ```
 
