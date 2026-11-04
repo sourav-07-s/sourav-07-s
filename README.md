@@ -98,7 +98,7 @@ My interactive developer portfolio built to showcase my work.
 
 `React` `3D` `Vercel`
 
-[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)](https://portfolio-i9vy.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)(https://portfolio-i9vy.vercel.app/)
 
 </td>
 </tr>
