@@ -131,7 +131,7 @@ Groups customers into segments based on shared characteristics.
 Shopping assistant app.
 
 `TODO: add stack`
-[[live](https://shopassist-thtf.vercel.app/)]
+[![Live](https://shopassist-thtf.vercel.app/)]
 [![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/shopassist)
 
 </td>
