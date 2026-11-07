@@ -59,8 +59,10 @@ const sourav = {
 ## 🧰 Tech Stack
 
 <div align="center">
+
   
 **🧑‍💻 FrameWork**
+
 <img src="https://skillicons.dev/icons?i=nextjs&perline=7" alt="framework" />
 
 **🎨 Frontend**
