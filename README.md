@@ -61,7 +61,7 @@ const sourav = {
 <div align="center">
 
   
-**🧑‍💻 FrameWork**
+**🧑‍💻 FrameWork **
 
 <img src="https://skillicons.dev/icons?i=nextjs&perline=7" alt="framework" />
 
