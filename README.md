@@ -98,7 +98,7 @@ Role-based music streaming app. Listeners stream tracks, admins upload songs and
 </td>
 <td width="50%" valign="top">
 
-### 🌐 3D Portfolio
+### 🌐  Portfolio
 My interactive developer portfolio built to showcase my work.
 
 `React` `3D` `Vercel`
@@ -134,6 +134,7 @@ Groups customers into segments based on shared characteristics.
 
 ### 🛒 ShopAssist
 Shopping assistant app.
+
 `React`
 
 [![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)](https://shopassist-thtf.vercel.app/)
