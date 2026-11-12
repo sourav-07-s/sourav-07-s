@@ -185,7 +185,7 @@ A blog application built with React.
 
 <div align="center">
 
-I'm open to **internships, junior roles and freelance work**.
+I'm open to **internships, junior roles and fresher **.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-sahoo-74088432b)
 
