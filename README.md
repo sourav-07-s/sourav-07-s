@@ -106,27 +106,6 @@ A blog application built with React, Redux Toolkit, and Appwrite.
 
 ---
 
-## Currently building
-
-### Job Tracker — Job application management
-
-**Status: In progress**
-
-A personal job-application tracker organised around a Kanban-style workflow. The board currently uses the stages Wish List, Applied, Interviewing, Offer, and Rejected.
-
-**Technologies:** Next.js · JavaScript · MongoDB · Mongoose · Better Auth · Tailwind CSS
-
-**Current focus:** Authentication and session handling, user-specific board setup, and persistent job application data. This project is still under development; features are not described as complete until implemented and tested.
-
-```mermaid
-flowchart LR
-    W[Wish List] --> A[Applied] --> I[Interviewing] --> O[Offer]
-    A --> R[Rejected]
-    I --> R
-```
-
----
-
 ## GitHub activity
 
 The cards below are generated from public GitHub activity. The animations are entrance effects; they respect reduced-motion settings where supported.
