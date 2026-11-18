@@ -30,8 +30,8 @@ My internship experience includes **Python and AI at Oditech Global Pvt. Ltd.** 
 | Languages | JavaScript, Python, SQL |
 | Frontend | React, Redux Toolkit, HTML, CSS, Tailwind CSS |
 | Backend | Node.js, Express.js, Flask, REST APIs |
-| Databases | MongoDB, Mongoose, PostgreSQL, Supabase |
-| Data and ML | Pandas, NumPy, scikit-learn, TF-IDF, K-Means |
+| Databases | MongoDB, Mongoose, Sql |
+| Data and ML | Pandas, NumPy, scikit-learn, K-Means |
 | Tools | Git, GitHub, VS Code, Postman, Vercel |
 
 ---
