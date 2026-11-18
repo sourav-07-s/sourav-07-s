@@ -121,11 +121,6 @@ The cards below are generated from public GitHub activity. The animations are en
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-07-s&bg_color=0D1117&color=F97316&line=F97316&point=FBBF24&area=true&area_color=7C2D12&hide_border=true&radius=8&custom_title=Contribution%20activity" alt="Contribution activity graph" />
 </p>
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourav-07-s&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
-</p>
 
 ### Contribution snake
 
