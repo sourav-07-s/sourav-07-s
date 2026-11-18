@@ -1,102 +1,131 @@
-<!-- Animated header -->
+<!-- PREMIUM ANIMATED HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:2563EB&height=170&section=header&text=Sourav%20Sahoo&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%7C%20Full-Stack%20Development&descSize=14&descAlignY=60" alt="Sourav Sahoo animated header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:312E81,100:0891B2&height=190&section=header&text=SOURAV%20SAHOO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%202027&descSize=13&descAlignY=60" alt="Sourav Sahoo" />
 </p>
 
-<!-- Typing animation -->
+<!-- ANIMATED INTRODUCTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;B.Tech+Computer+Science+%7C+2027;Building+Web+Applications+%26+ML+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Working+Projects" alt="Animated developer introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sourav-07-s">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/sourav-sahoo-s/">LinkedIn</a> ·
+  <a href="https://github.com/sourav-07-s">GitHub</a> &nbsp; ◆ &nbsp;
+  <a href="https://www.linkedin.com/in/sourav-sahoo-s/">LinkedIn</a> &nbsp; ◆ &nbsp;
   <a href="https://portfolio-green-iota-64.vercel.app/">Portfolio</a>
 </p>
 
----
-
-### About
-
-I'm a B.Tech Computer Science and Engineering student graduating in 2027, interested in developing practical software applications and solving real-world problems.
-
-My experience includes Frontend Development and Python & AI internships. I primarily work with JavaScript, React, Node.js and Python, with an interest in backend engineering, APIs, databases and machine learning.
-
-- Building full-stack web applications.
-- Exploring backend architecture and REST API development.
-- Strengthening Data Structures and Algorithms.
-- Interested in software engineering internships and entry-level opportunities.
-
-### Tech Stack
-
+<!-- FEATURED PROJECT CTA -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,redux,nodejs,express,flask,mongodb,postgres,tailwind,git,github,vscode&theme=dark" alt="Technical skills" />
+  <strong>✦ FEATURED PROJECT</strong>
 </p>
 
-### Selected Projects
+<h2 align="center">🎧 MusicFy</h2>
 
-**01. MusicFy — Role-Based Music Application**
+<p align="center">
+  A full-stack music application with listener and administrator workflows, music management and media uploads.
+</p>
 
-A music application featuring listener and administrator workflows, music management, authentication and media uploads.
+<p align="center">
+  <a href="https://musicfy-mu.vercel.app/?#/" >
+    <img src="https://img.shields.io/badge/EXPLORE_LIVE_APP-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore MusicFy live" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sourav-07-s/CompleteFullStack/tree/main/RoleBasedAuth_project">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-172554?style=for-the-badge&logo=github&logoColor=white" alt="MusicFy source code" />
+  </a>
+</p>
+
+---
+
+## ABOUT ME
+
+I'm Sourav, a B.Tech Computer Science and Engineering student graduating in 2027.
+
+I enjoy building full-stack applications, working with backend systems and exploring how technology can solve practical problems.
+
+My experience includes Frontend Development and Python & AI internships.
+
+- Building full-stack applications using JavaScript and React.
+- Developing backend services and REST APIs.
+- Working with databases and authentication systems.
+- Exploring machine learning with Python.
+- Open to software engineering internships and fresher opportunities.
+
+---
+
+## TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,tailwind,nodejs,express,flask,mongodb,postgres,git,github,vscode&theme=dark" alt="My technology stack" />
+</p>
+
+---
+
+## SELECTED WORK
+
+### 01 — 🎧 MusicFy
+
+Role-based music application with listener and administrator workflows.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `ImageKit`
 
-[View Repository](https://github.com/sourav-07-s/CompleteFullStack/tree/main/RoleBasedAuth_project)
+[Live Application ↗](https://musicfy-mu.vercel.app/?#/) · [Source Code ↗](https://github.com/sourav-07-s/CompleteFullStack/tree/main/RoleBasedAuth_project)
 
----
+### 02 — 🛒 ShopAssist
 
-**02. ShopAssist — E-commerce Application**
+E-commerce application focused on product browsing and shopping functionality.
 
-An e-commerce project focused on product browsing and shopping functionality.
+`React` `Redux Toolkit` `Tailwind CSS` `JavaScript`
 
-`React` `JavaScript` `Redux Toolkit` `Tailwind CSS`
+[Live Demo ↗](https://shopassist-mu.vercel.app/) · [Source Code ↗](https://github.com/sourav-07-s/shopassist)
 
-[Repository](https://github.com/sourav-07-s/shopassist) · [Live Demo](https://shopassist-mu.vercel.app/)
+### 03 — 📧 Email Spam Detection
 
----
-
-**03. Email Spam Detection — Machine Learning**
-
-A Python-based application that classifies messages as spam or legitimate using text preprocessing and TF-IDF feature extraction.
+Machine learning application that classifies messages using text preprocessing and TF-IDF feature extraction.
 
 `Python` `Flask` `Pandas` `Scikit-learn`
 
-[View Repository](https://github.com/sourav-07-s/Email-Spam-Detection-Model)
+[Explore Repository ↗](https://github.com/sourav-07-s/Email-Spam-Detection-Model)
 
 ---
 
-### Certification
+## CERTIFICATION
 
 **HackerRank — REST API (Intermediate)**
 
-[View Certificate](https://www.hackerrank.com/certificates/fe68765b69c6)
+[View Verified Certificate ↗](https://www.hackerrank.com/certificates/fe68765b69c6)
 
-### Current Focus
+---
+
+## CURRENT FOCUS
 
 - Data Structures and Algorithms
 - Backend development and API design
 - Database management
-- Clean and maintainable code
-- Software testing and debugging
+- Clean code and software architecture
+- Testing and debugging
+- Building practical software projects
 
-### Connect
+---
+
+## LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-sahoo-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sourav-07-s">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://portfolio-green-iota-64.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Building with purpose. Learning continuously. Improving every day.</sub>
+  <sub>BUILD SOMETHING USEFUL. KEEP GETTING BETTER.</sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E3A8A&height=3&section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0B1020&height=100&section=footer" alt="" />
 </p>
