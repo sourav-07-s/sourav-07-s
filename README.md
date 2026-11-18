@@ -40,18 +40,6 @@ My internship experience includes **Python and AI at Oditech Global Pvt. Ltd.** 
 | Data and ML | Pandas, NumPy, scikit-learn, K-Means |
 | Tools | Git, GitHub, VS Code, Postman, Vercel |
 
-### How I build an application
-
-```mermaid
-flowchart LR
-    A([Idea]) --> B[Design UI<br/>React + Tailwind]
-    B --> C[Build API<br/>Node / Express / Flask]
-    C --> D[(Database<br/>MongoDB / PostgreSQL)]
-    D --> E[Auth + Testing<br/>JWT / Better Auth]
-    E --> F([Deploy<br/>Vercel])
-    F -. feedback .-> A
-```
-
 ---
 
 ## Featured projects
