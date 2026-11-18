@@ -14,7 +14,8 @@
   <a href="https://portfolio-green-iota-64.vercel.app/">Portfolio</a>
 </p>
 
-<!-- FEATURED PROJECT CTA -->
+---
+
 <p align="center">
   <strong>✦ FEATURED PROJECT</strong>
 </p>
@@ -26,10 +27,9 @@
 </p>
 
 <p align="center">
-  <a href="https://musicfy-mu.vercel.app/?#/" >
-    <img src="https://img.shields.io/badge/EXPLORE_LIVE_APP-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore MusicFy live" />
+  <a href="https://musicfy-mu.vercel.app/?#/">
+    <img src="https://img.shields.io/badge/EXPLORE_LIVE_APP-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore MusicFy" />
   </a>
-  &nbsp;
   <a href="https://github.com/sourav-07-s/CompleteFullStack/tree/main/RoleBasedAuth_project">
     <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-172554?style=for-the-badge&logo=github&logoColor=white" alt="MusicFy source code" />
   </a>
@@ -56,7 +56,7 @@ My experience includes Frontend Development and Python & AI internships.
 ## TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,tailwind,nodejs,express,flask,mongodb,postgres,git,github,vscode&theme=dark" alt="My technology stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,redux,html,css,tailwind,nodejs,express,flask,mongodb,postgres,git,github,vscode&theme=dark" alt="Technical skills" />
 </p>
 
 ---
@@ -89,11 +89,30 @@ Machine learning application that classifies messages using text preprocessing a
 
 ---
 
+## GITHUB ANALYTICS
+
+<p align="center">
+  <a href="https://github.com/sourav-07-s">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sourav-07-s&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9&icon_color=22D3EE" alt="Sourav's GitHub statistics" />
+  </a>
+  <a href="https://github.com/sourav-07-s">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-07-s&layout=donut&langs_count=5&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=C9D1D9" alt="Most used programming languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=sourav-07-s">
+    <img width="100%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=sourav-07-s&bg_color=0B1020&color=C9D1D9&line=8B5CF6&point=22D3EE&area_color=312E81&area=true&hide_border=true&radius=8&height=280&days=30" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+---
+
 ## CERTIFICATION
 
 **HackerRank — REST API (Intermediate)**
 
-[View Verified Certificate ↗](https://www.hackerrank.com/certificates/fe68765b69c6)
+[View Verified Certificate](https://www.hackerrank.com/certificates/fe68765b69c6)
 
 ---
 
