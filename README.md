@@ -1,39 +1,31 @@
 # Sourav Sahoo
 
-**B.Tech Computer Science & Engineering · Class of 2027**  
+**B.Tech Computer Science & Engineering · 2027**  
 Full-stack development · Backend engineering · Python and machine learning
 
-[![Animated developer introduction](https://readme-svg-typing-generator.vercel.app/api?lines=Full-stack+developer;Building+useful+web+applications;React+%7C+Node.js+%7C+Python;Learning+by+building+and+shipping&animation=typing&color=F97316&size=23&font=code&duration=3200&pause=900&center=true&vCenter=true&width=900&height=68&repeat=true)](https://github.com/readme-SVG/readme-SVG-typing-generator)
+![Typing introduction](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1100&color=F97316&center=false&vCenter=true&width=850&height=46&lines=Full-stack+developer;Building+useful+web+applications;React+%7C+Node.js+%7C+Python;Learning+by+building+and+shipping)
 
-[Portfolio](https://portfolio-green-iota-64.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sourav-sahoo-s/) · [GitHub](https://github.com/sourav-07-s) · [HackerRank Certificate](https://www.hackerrank.com/certificates/fe68765b69c6)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-F97316?style=flat-square&labelColor=161B22&logo=vercel&logoColor=FBBF24)](https://portfolio-green-iota-64.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-F97316?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=FBBF24)](https://www.linkedin.com/in/sourav-sahoo-s/) [![GitHub](https://img.shields.io/badge/GITHUB-Projects-F97316?style=flat-square&labelColor=161B22&logo=github&logoColor=FBBF24)](https://github.com/sourav-07-s) [![HackerRank](https://img.shields.io/badge/HACKERRANK-Certificate-FBBF24?style=flat-square&labelColor=161B22&logo=hackerrank&logoColor=FBBF24)](https://www.hackerrank.com/certificates/fe68765b69c6)
+
+> I build practical web applications and Python-based machine-learning projects, with a focus on clear user experiences, reliable APIs, and maintainable code.
 
 ---
 
 ## About
 
-I'm a B.Tech Computer Science and Engineering student at Aryan Institute of Engineering and Technology (BPUT), graduating in 2027. I build web applications and Python-based machine-learning projects, and I enjoy working across frontend interfaces, backend APIs, databases, and application workflows.
+I'm a B.Tech Computer Science and Engineering student at Aryan Institute of Engineering and Technology (BPUT), graduating in 2027. I enjoy working across frontend interfaces, backend services, databases, and application workflows to turn ideas into usable software.
 
-My internship experience includes Python and AI at Oditech Global Pvt. Ltd. and Frontend Development at Canien Tech. I'm currently strengthening my software engineering fundamentals and building projects that help me practise practical engineering skills.
+My internship experience includes **Python and AI at Oditech Global Pvt. Ltd.** and **Frontend Development at Canien Tech**. I'm continuing to strengthen my software engineering fundamentals through hands-on projects and collaborative development.
 
-- **Interested in:** Software engineering internships, full-stack development, backend development, and Python/AI roles.
-- **Working with:** JavaScript, React, Node.js, Express, Python, Flask, MongoDB, and PostgreSQL.
-- **Improving:** Data structures and algorithms, testing, API design, database modelling, and maintainable code.
+- **Seeking:** Software engineering internships and entry-level full-stack, frontend, backend, or Python development roles.
+- **Building with:** JavaScript, React, Node.js, Express, Python, Flask, MongoDB, and PostgreSQL.
+- **Currently improving:** Data structures and algorithms, API design, testing, database modelling, and maintainable code.
 
 ## Technology
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+![Technology stack](https://skillicons.dev/icons?i=js,python,react,redux,nodejs,express,flask,mongodb,postgres,tailwind,git,github,vscode&theme=dark)
 
-| Area | Technologies |
+| Focus | Technologies |
 |---|---|
 | Languages | JavaScript, Python, SQL |
 | Frontend | React, Redux Toolkit, HTML, CSS, Tailwind CSS |
