@@ -1,11 +1,11 @@
-# Sourav Sahoo
+![Animated profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:7C2D12,100:F97316&height=210&section=header&text=Sourav%20Sahoo&fontSize=46&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20B.TECH%20CSE%202027&descSize=14&descAlignY=60)
+
+![Animated typing introduction](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2700&pause=1000&color=F97316&center=true&vCenter=true&width=760&height=48&lines=Full-stack+developer;Building+practical+web+applications;React+%7C+Node.js+%7C+Python;Learning+by+building+and+shipping)
 
 **B.Tech Computer Science & Engineering · 2027**  
 Full-stack development · Backend engineering · Python and machine learning
 
-![Typing introduction](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1100&color=F97316&center=false&vCenter=true&width=850&height=46&lines=Full-stack+developer;Building+useful+web+applications;React+%7C+Node.js+%7C+Python;Learning+by+building+and+shipping)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-F97316?style=flat-square&labelColor=161B22&logo=vercel&logoColor=FBBF24)](https://portfolio-green-iota-64.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-F97316?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=FBBF24)](https://www.linkedin.com/in/sourav-sahoo-s/) [![GitHub](https://img.shields.io/badge/GITHUB-Projects-F97316?style=flat-square&labelColor=161B22&logo=github&logoColor=FBBF24)](https://github.com/sourav-07-s) [![HackerRank](https://img.shields.io/badge/HACKERRANK-Certificate-FBBF24?style=flat-square&labelColor=161B22&logo=hackerrank&logoColor=FBBF24)](https://www.hackerrank.com/certificates/fe68765b69c6)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-F97316?style=flat-square&labelColor=161B22&logo=vercel&logoColor=FBBF24)](https://portfolio-green-iota-64.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-F97316?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=FBBF24)](https://www.linkedin.com/in/sourav-sahoo-s/) [![GitHub](https://img.shields.io/badge/GITHUB-Projects-F97316?style=flat-square&labelColor=161B22&logo=github&logoColor=FBBF24)](https://github.com/sourav-07-s)
 
 > I build practical web applications and Python-based machine-learning projects, with a focus on clear user experiences, reliable APIs, and maintainable code.
 
@@ -118,11 +118,6 @@ The cards below are generated from public GitHub activity. The animations are en
 
 - **Oditech Global Pvt. Ltd.** — Python and AI internship.
 - **Canien Tech** — Frontend Development internship.
-
-## Certification
-
-**HackerRank — REST API (Intermediate)**  
-[View certificate](https://www.hackerrank.com/certificates/fe68765b69c6)
 
 ## Connect
 
