@@ -1,196 +1,83 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:EC4899,100:F59E0B&height=260&section=header&text=Sourav%20Sahoo&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%9C%A6%20MERN%20%E2%9C%A6%20Odisha%2C%20India&descAlignY=62&descSize=20" alt="Sourav Sahoo banner" />
-
-<a href="https://portfolio-i9vy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Sourav+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;I+build+with+React+%2B+Node+%2B+MongoDB+%E2%9A%A1;Streaming+apps%2C+ML+models%2C+and+more+%F0%9F%8E%A7" alt="Typing animation" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://portfolio-i9vy.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-sahoo-74088432b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourav_s_070)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/souravsahoo1120/)
-[![MusicFy](https://img.shields.io/badge/🎧_MusicFy-Live-22C55E?style=for-the-badge)](https://musicfy-mu.vercel.app/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sourav-07-s&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sourav-07-s?style=for-the-badge&color=F59E0B&logo=github)
-
-</div>
-
----
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-```js
-const sourav = {
-  role: "Full Stack Developer",
-  location: "Odisha, India 🇮🇳",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  alsoExploring: ["Machine Learning", "TypeScript" , "AI"],
-  currentlyBuilding: "MusicFy 🎧 ,ShopAssist 🛍️, Job Tracking Application (progressssss....)",
-  lookingFor: "Internships • Junior roles • Fresher",
-  funFact: "I debug with coffee ☕ and chips"
-};
-```
-
-</td>
-<td width="40%" align="center">
-
-🎯 **Focus:** reliable, user-friendly web apps
-
-🔐 **Strong at:** auth, REST APIs, cloud uploads
-
-☁️ **Deploys on:** Vercel
-
-🌱 **Learning:** ML + TypeScript
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-  
-**🧑‍💻 FrameWork **
-
-<img src="https://skillicons.dev/icons?i=nextjs&perline=7" alt="framework" />
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=7" alt="frontend" />
-
-**⚙️ Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,flask&perline=5" alt="backend" />
-
-**🛠️ Tools & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm&perline=6" alt="tools" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 MusicFy
-Role-based music streaming app. Listeners stream tracks, admins upload songs and build albums.
-
-`React` `Express` `MongoDB` `ImageKit` `JWT`
-
-[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)](https://musicfy-mu.vercel.app/)
-[![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/CompleteFullStack)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐  Portfolio
-My interactive developer portfolio built to showcase my work.
-
-`React` `3D` `Vercel`
-
-[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)](https://portfolio-i9vy.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📧 Email Spam Detection
-ML model with a web interface that classifies messages as spam or not spam.
-
-`Python` `Flask` `scikit-learn`
-
-[![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/Email-Spam-Detection-Model)
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Customer Segmentation
-Groups customers into segments based on shared characteristics.
-
-`TODO: add stack`
-
-[![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/Customer-Segmentation-model)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 ShopAssist
-Shopping assistant app.
-
-`React`
-
-[![Live](https://img.shields.io/badge/Live-Demo-22C55E?style=flat-square)](https://shopassist-thtf.vercel.app/)
-[![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/shopassist)
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ React Blog
-A blog application built with React.
-
-`React`
-
-[![Code](https://img.shields.io/badge/Source-Code-6366F1?style=flat-square)](https://github.com/sourav-07-s/ReactProject--Blog)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sourav-07-s&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-07-s&layout=compact&theme=radical&hide_border=true" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=sourav-07-s&theme=radical&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-07-s&theme=react-dark&hide_border=true&area=true&color=ec4899&line=6366f1&point_color=f59e0b" alt="activity graph" />
-
-</div>
-
----
-
-## 🎯 Goals for 2026
-
-- [x] Ship a full-stack app with auth and cloud uploads 🎧
-- [x] Launch my portfolio 🌐
-- [ ] Build a project with real-time features (WebSockets)
-- [ ] Learn Docker and write API tests
-- [ ] Contribute to an open-source project
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm open to **internships, junior roles and fresher**.
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-sahoo-74088432b)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:EC4899,100:6366F1&height=120&section=footer" alt="footer wave" />
-
-⭐ *If you like my work, leave a star on a repo!* ⭐
-
-</div>
+<h1 align="center">Hi, I'm Sourav Sahoo</h1><p align="center">
+  <strong>Full-Stack Developer | MERN Stack | Python & Applied Machine Learning</strong>
+</p><p align="center">
+  B.Tech Computer Science & Engineering · Class of 2027 · Odisha, India
+</p><p align="center">
+  <a href="https://portfolio-green-iota-64.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sourav-sahoo-s/">LinkedIn</a> ·
+  <a href="https://github.com/sourav-07-s">GitHub</a> ·
+  <a href="mailto:souravsahoo407@gmail.com">Email</a>
+</p>About
+I'm a Computer Science & Engineering student at Aryan Institute of Engineering and Technology (BPUT), graduating in 2027. I build full-stack web applications with the MERN stack and work on practical Python-based machine learning projects.
+- Web development: JavaScript, React, Node.js, Express, MongoDB and REST APIs.
+- Python & ML: Python, Flask, scikit-learn, TF-IDF, Logistic Regression, RFM analysis and K-Means clustering.
+- Development experience: Frontend Development and Python & AI internships.
+- Current focus: Improving application architecture, API development, authentication and project documentation.
+I'm interested in software engineering internships and early-career opportunities in full-stack development, frontend development and Python-based applications.
+Technical Skills
+Area	Technologies
+Languages	JavaScript (ES6+), Python, TypeScript (basic)
+Frontend	React, Next.js (basics), HTML5, CSS3, Tailwind CSS, Redux Toolkit, React Router
+Backend	Node.js, Express.js, Flask, REST APIs, JWT authentication
+Databases	MongoDB, Mongoose, PostgreSQL, Supabase
+Machine Learning & Data	scikit-learn, Pandas, NumPy, TF-IDF, Logistic Regression, K-Means, RFM analysis
+Tools	Git, GitHub, Vite, Visual Studio Code, Vercel
+
+
+Experience
+Python & AI Intern · Oditech Global Pvt. Ltd.
+May 2026 – July 2026
+- Built an email spam classification system using Python, TF-IDF and Logistic Regression.
+- Developed a Flask prediction API to connect the trained model with a web interface.
+- Worked on a customer segmentation model using purchasing-behaviour data.
+Software Developer Intern (Frontend) · CanienTech
+October 2025 – April 2026
+- Developed responsive web pages using HTML5, CSS3 and JavaScript for mobile, tablet and desktop layouts.
+- Built interactive UI components and refined layouts for usability and cross-device consistency.
+- Debugged frontend issues using browser developer tools.
+Featured Projects
+MusicFy — Role-Based Music Streaming Application
+A music application with separate listener and admin capabilities.
+- Implemented authentication with JWT stored in HTTP-only cookies and role-based access control.
+- Built music browsing, playback, track upload and album-management workflows.
+- Integrated MongoDB/Mongoose and ImageKit for media storage and delivery.
+Stack: React, Vite, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs, ImageKit, Tailwind CSS.
+
+Repository overview
+ShopAssist — E-commerce Application
+A responsive shopping application with product discovery and shopping-assistance features.
+- Integrated a REST product API and implemented product browsing, search and category filtering.
+- Managed cart and wishlist state with Redux Toolkit.
+- Built an in-app rule-based shopping assistant.
+Stack: React, JavaScript, Redux Toolkit, React Router, Tailwind CSS, REST APIs.
+Customer Segmentation Model
+A customer analytics project that groups customers by purchasing behaviour.
+- Applied RFM (Recency, Frequency and Monetary) analysis to describe customer activity.
+- Used K-Means clustering to identify customer segments.
+Stack: Python, Pandas, scikit-learn, RFM analysis, K-Means clustering.
+Email Spam Detection Model
+A machine learning application that classifies message text as spam or not spam.
+- Prepared text data and generated TF-IDF features.
+- Trained a Logistic Regression classifier and saved the model and vectorizer for prediction.
+- Connected the prediction workflow to a Flask web interface.
+Stack: Python, Flask, scikit-learn, Pandas, TF-IDF, Logistic Regression, HTML, CSS.
+Currently Building
+Job Application Tracker · In Progress
+A full-stack job application tracking application using Next.js, TypeScript, MongoDB and Better Auth. Current work includes email/password authentication, protected routes and data models for boards, columns and applications.
+GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-07-s&show_icons=true&hide_border=true&theme=transparent" alt="Sourav's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-07-s&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in Sourav's public repositories" height="165" />
+</p><sub>Language statistics reflect code detected in public repositories; they are not a measure of proficiency.</sub>
+Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-07-s&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</p>Certification
+- HackerRank — REST API (Intermediate)
+Connect
+- Portfolio: https://portfolio-green-iota-64.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/sourav-sahoo-s/
+- Email: souravsahoo407@gmail.com
+<p align="center">
+  <sub>Thanks for visiting my profile. Feel free to explore the repositories and connect.</sub>
+</p>
