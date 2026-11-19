@@ -44,6 +44,7 @@ My internship experience includes **Python and AI at Oditech Global Pvt. Ltd.** 
 
 ## Featured projects
 
+
 ### 1. MusicFy — Role-based music application
 
 A full-stack music application with listener and administrator workflows, music management, authentication, and media uploads.
